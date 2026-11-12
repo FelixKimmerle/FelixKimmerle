@@ -43,4 +43,4 @@ self-hosted GitLab, so some creation dates and commit histories don't match when
 
 Most of my professional work lives in closed company repos, unfortunately.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/felix-kimmerle-601258324/).
+Find me on [LinkedIn](https://www.linkedin.com/in/felix-kimmerle-cpp/).
